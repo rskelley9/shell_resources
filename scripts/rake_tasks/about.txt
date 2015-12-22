@@ -1,0 +1,8 @@
+About
+-----
+This is a rake task for starting a thin server using [shotgun](https://github.com/rtomayko/shotgun).
+
+Notes
+-----
+* Place `server.rake` in `tasks` directory of your Sinatra project
+* Update `config` variable on line 7 if necessary
